@@ -1,0 +1,7 @@
+# Your key lives here, never in git.
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
